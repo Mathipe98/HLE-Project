@@ -1,0 +1,6 @@
+***** Running Prediction *****
+  Num examples = 4
+  Batch size = 16
+
+Correct labels: ['sport', 'sport', 'nyheter', 'nyheter']
+Predicted labels: ['sport', 'sport', 'nyheter', 'nyheter']
