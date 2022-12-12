@@ -1,17 +1,17 @@
               precision    recall  f1-score   support
 
-     nyheter     0.9691    0.9704    0.9697      1452
-        tema     0.8730    0.8871    0.8800       124
-       sport     0.9763    0.9693    0.9728       553
-     kjendis     0.9237    0.9554    0.9393       672
-      kultur     0.7762    0.7303    0.7525       152
-    meninger     0.9907    0.9771    0.9838       218
-     annonse     0.9938    0.9415    0.9670       171
-         bok     0.8182    0.7895    0.8036        57
+     nyheter     0.9617    0.9504    0.9560      1452
+        tema     0.8538    0.8952    0.8740       124
+       sport     0.9605    0.9675    0.9640       553
+     kjendis     0.9125    0.9464    0.9291       672
+      kultur     0.7517    0.7171    0.7340       152
+    meninger     0.9623    0.9358    0.9488       218
+     annonse     0.9651    0.9708    0.9679       171
+         bok     0.8431    0.7544    0.7963        57
 
-    accuracy                         0.9494      3399
-   macro avg     0.9151    0.9026    0.9086      3399
-weighted avg     0.9493    0.9494    0.9492      3399
+    accuracy                         0.9367      3399
+   macro avg     0.9013    0.8922    0.8963      3399
+weighted avg     0.9367    0.9367    0.9365      3399
 
-Correct answers: 3227. Wrong answers: 172
-Percentage of correct answers: 94.94%
+Correct answers: 3184. Wrong answers: 215
+Percentage of correct answers: 93.67%
