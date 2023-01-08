@@ -18,7 +18,7 @@ This included nb-sbert-base for topic- and keyword-extraction, nbailab-base-ner-
 finally nb-bert-large for the final classification. The latter model was the only one trained for fine-tuning, while the others
 were used out of the box. The below figure shows the complete architecture:
 
-![Architecture](repository/figures/architecture.png)
+![Architecture](/repository/figures/architecture.png?raw=true "Complete Architecture")
 
 ## Directories
 
